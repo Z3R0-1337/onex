@@ -29,7 +29,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rajkumardusad/onex.git`
+* `https://github.com/Z3R0-1337/onex.git`
 
 * `chmod +x onex/install`
 
