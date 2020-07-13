@@ -71,4 +71,5 @@ Enter a Number for a specific output:
 
 We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-
+CODER:- Z3R0
+Email:- randomgaming605@gmail.com
